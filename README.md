@@ -1,7 +1,6 @@
 #  Network Intrusion Detection System (NIDS) using Machine Learning
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-20BEFF.svg)](https://www.kaggle.com/code/ahmedhery11/nids-final-project)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ##  Project Overview
@@ -39,20 +38,26 @@ The **CICIDS2017** dataset contains benign traffic and modern common attacks, co
 * **Data Processing:** `Pandas`, `NumPy`
 * **Machine Learning:** `Scikit-Learn`, `XGBoost`
 * **Visualization:** `Matplotlib`, `Seaborn`
-* **Environment:** Kaggle Notebooks / Jupyter Lab
+* **Environment:** Kaggle / Jupyter Notebook / VS Code
+
+----
+
+##  Authors & Team Members
+
+This project was developed as a Graduation Project at the **Higher Technological Institute (HTI)** by:
+
+*  **Mahmoud Yousef Elbendary** - [GitHub Profile](https://github.com/MahmoudElbendary)
+*  **Mahmoud Saber Mohamed**
+*  **Hamad Mostafa Hammad**
 
 ---
 
 ##  How to Run the Project
 
-Since this project was built and executed using Cloud Accelerators, you can run and experiment with the code directly on Kaggle:
+You can view and analyze the full code and model execution directly in this repository by opening the `nids-final-project.ipynb` file.
 
-### Option 1: Run Online (Recommended)
-1. Open the Notebook directly on Kaggle: [NIDS Final Project on Kaggle](https://www.kaggle.com/code/ahmedhery11/nids-final-project).
-2. Click on **Copy & Edit** to create your own editable copy.
-3. Run the notebook cells sequentially!
+To run and experiment with the project locally on your machine:
 
-### Option 2: Run Locally
-1. Clone this repository:
+1. **Clone this repository:**
    ```bash
    git clone [https://github.com/MahmoudElbendary/NIDS-Final-Project.git](https://github.com/MahmoudElbendary/NIDS-Final-Project.git)
